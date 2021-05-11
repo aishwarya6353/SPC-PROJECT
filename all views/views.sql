@@ -1,0 +1,4 @@
+
+USE SPC
+
+CREATE VIEW
